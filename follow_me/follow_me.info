@@ -1,0 +1,7 @@
+name = Follow Me Module
+description = Custom module to follow users
+package = Core
+version = 7.x-1.x-dev
+core = 7.x
+dependencies[] = views
+files[] = follow_me.module
